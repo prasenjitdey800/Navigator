@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Navigator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome, Prasenjit</string>
+    <string name="nav_header_subtitle">Navigator</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dragon Ball Pedia</string>
+    <string name="menu_gallery">Music Player</string>
+    <string name="menu_slideshow">Multi Purpose</string>
+    <string name="menu_tools">Mixed Bag</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_pop">Famous Animes</string>
+</resources>
